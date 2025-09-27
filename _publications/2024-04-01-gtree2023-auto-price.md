@@ -1,5 +1,6 @@
 ---
 title: "Research on the Influencing Factors of Automobile Price Based on Multiple Linear Regression Model"
+collection: publications
 permalink: /publications/gtree2023-auto-price
 date: 2024-04-01
 venue: "Proceedings of the 2nd International Conference on Green Transport, Renewable Energy and Environment (GTREE 2023). Highlights in Science, Engineering and Technology, Vol. 83, 2024"

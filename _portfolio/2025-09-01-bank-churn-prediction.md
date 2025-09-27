@@ -1,6 +1,6 @@
 ---
 title: "Bank Customer Churn Prediction"
-excerpt: "Machine Learning project analyzing 10,000 bank customer records to predict churn with MLP, boosting models, and interpretable feature engineering.<br/><img src='/images/churn-overview.png'>"
+excerpt: "Machine Learning project analyzing 10,000 bank customer records to predict churn with MLP, boosting models, and interpretable feature engineering.<br/><img src='/images/ML1.jpg'>"
 collection: portfolio
 ---
 

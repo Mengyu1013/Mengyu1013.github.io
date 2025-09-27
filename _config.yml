@@ -42,15 +42,6 @@ author:
   twitter          : 
   zhihu            : 
 
-# Publication Category
-publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'
-  conferences:
-    title: 'Conference Papers'
-
 # Site Settings
 teaser                   :  
 breadcrumbs              : false

@@ -6,32 +6,14 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  <div class="wordwrap">
+    You can also find my articles on 
+    <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.
+  </div>
 {% endif %}
 
 {% include base_path %}
 
-{% if site.publication_category %}
-  {% for category_hash in site.publication_category %}
-    {% assign cat_key = category_hash[0] %}
-    {% assign cat_title = category_hash[1].title %}
-    {% assign title_shown = false %}
-
-    {% for post in site.publications reversed %}
-      {% if post.category and post.category | downcase != cat_key %}
-        {% continue %}
-      {% endif %}
-
-      {% unless title_shown %}
-        <h2>{{ cat_title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}

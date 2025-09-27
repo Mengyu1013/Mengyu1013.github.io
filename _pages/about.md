@@ -14,10 +14,10 @@ I’m an **MSBA student at Santa Clara University (Exp. Dec 2025)** and an exper
 ---
 
 ## 🔧 Core Skills
-- Programming & Analytics: **Python, R, SQL**
-- Visualization & BI: **Tableau, Power BI**
-- Methods: **Quantitative Modeling, Statistical Analysis, Machine Learning, NLP**
-- Applications: **Customer Analytics, Cloud Cost Optimization, Urban Governance, Social Impact Evaluation**
+- **Machine Learning & NLP**: RAG pipelines, OCR integration, sentiment analysis, MLP classifier, time series forecasting  
+- **Data Analysis & Modeling**: SEM, OLS, customer segmentation, pricing strategies, churn prediction  
+- **Tools & Visualization**: Python (Pandas, NumPy, Scikit-learn), R, SQL, Tableau, Power BI, ETL, Excel, GIS, Matplotlib, Seaborn  
+- **Soft Skills**: Research writing, leadership, cross-functional collaboration, analytical storytelling  
 
 ---
 

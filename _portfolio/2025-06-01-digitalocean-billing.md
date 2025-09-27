@@ -1,6 +1,6 @@
 ---
 title: "AI-Powered Billing Comparison System for Cloud Cost Optimization"
-excerpt: "Designed for DigitalOcean to benchmark AWS invoices, extract services with OCR+LLM, and deliver transparent cloud cost optimization insights. <br/><img src='/images/do-overview.png'>"
+excerpt: "Designed for DigitalOcean to benchmark AWS invoices, extract services with OCR+LLM, and deliver transparent cloud cost optimization insights. <br/><img src='/images/do1.jpg'>"
 collection: portfolio
 ---
 
